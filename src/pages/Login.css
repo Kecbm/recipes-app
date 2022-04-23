@@ -1,0 +1,13 @@
+.centralizar {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+
+.card {
+  background-color: red;
+  color: white;
+  margin-top: 25vh;
+  padding: 30px;
+}

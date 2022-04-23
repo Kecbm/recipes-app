@@ -1,0 +1,41 @@
+.strikethrough:checked + span {
+  text-decoration: line-through;
+}
+
+.title {
+  margin: 10px;
+}
+
+.button {
+  border: 1px solid transparent;
+  background-color: #ffc107;
+  border-color: #ffc107;
+  border-radius: 5px;
+  color: #212529;
+  float: right;
+  margin: 2px;
+  margin-right: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.text {
+  margin: 20px;
+}
+
+.ingredients {
+  margin-left: 10px;
+  margin-top: 50px;
+}
+
+.button-recipe {
+  background-color: #ffc107;
+  border: 1px solid transparent;
+  border-color: #ffc107;
+  border-radius: 5px;
+  color: #212529;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  width: 90%;
+}

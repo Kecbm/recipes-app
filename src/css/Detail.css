@@ -1,0 +1,58 @@
+.imgStyle {
+  height: 250px;
+  width: 350px;
+}
+
+.imgDrinkStyle {
+  height: 200%;
+  width: 300%;
+}
+
+.recommendedStyle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cardStyle {
+  border-radius: 10px;
+  box-shadow: 0 0 1em #cc4b1d;
+  color: #260101;
+  justify-content: center;
+  margin: 1vh;
+  padding: 1vh 3vh;
+}
+
+.buttonStyle {
+  background-color: #ffc107;
+  border: 1px solid transparent;
+  border-color: #ffc107;
+  border-radius: 5px;
+  bottom: 0;
+  color: #212529;
+  padding: 10px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+
+.text {
+  margin: 20px;
+}
+
+.title {
+  margin: 10px;
+}
+
+.button {
+  background-color: #ffc107;
+  border: 1px solid transparent;
+  border-color: #ffc107;
+  border-radius: 5px;
+  color: #212529;
+  float: right;
+  margin: 2px;
+  margin-right: 10px;
+  padding: 10px;
+  text-align: center;
+}

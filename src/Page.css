@@ -1,0 +1,71 @@
+.centralizar {
+  align-items: center;
+  background-color: #cc4b1d;
+  color: white;
+  display: flex;
+  height: 13vh;
+  justify-content: space-around;
+}
+
+.flex {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.card {
+  display: flex;
+  margin-top: 15vh;
+  padding: 10vh;
+  width: 60vh;
+}
+
+.login {
+  height: 100vh;
+}
+
+
+.header {
+  align-items: center;
+  display: flex;
+  padding: 20px;
+}
+
+.margin {
+  margin: 10px;
+}
+
+.buttons-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.recipes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 3vh;
+}
+
+
+.card-recipe {
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 0 1em #cc4b1d;
+  color: #260101;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 1vh;
+  padding: 1vh 3vh;
+}
+
+.page-total {
+  background-color: white;
+}
+
+.imagem-logo {
+  max-width: 50vh;
+}
